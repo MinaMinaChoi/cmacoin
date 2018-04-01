@@ -75,7 +75,7 @@ const isNewStructrueValid = (block) => {
         typeof block.index === 'number' && 
         typeof block.hash === 'string' &&
         typeof block.previousHash === 'string' && 
-        typeof timestamp === 'number' &&
+        typeof block.timestamp === 'number' &&
         typeof block.data === 'string'
     )
 }
