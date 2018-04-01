@@ -1,0 +1,13 @@
+{
+  "name": "cmacoin",
+  "version": "1.0.0",
+  "description": "NodeJS로 코인만들기",
+  "main": "src/server.js",
+  "repository": "https://github.com/MinaMinaChoi/cmacoin.git",
+  "author": "DESKTOP-GCFQ9NM\\Mina Choi <mina@wannabit.io>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
